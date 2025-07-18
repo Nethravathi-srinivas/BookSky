@@ -12,7 +12,7 @@
 🚀 Getting Started
 
       Step 1: Clone the repository
-            git clone https://github.com/your-username/booksky.git
+            git clone https://github.com/Nethravathi-srinivas/booksky.git
 
      Step 2: Navigate into the project directory
             cd booksky
